@@ -1,4 +1,4 @@
-package com.example.pidsrequestlibrary
+package com.example.corenetworkapipid
 
 import com.squareup.moshi.Json
 

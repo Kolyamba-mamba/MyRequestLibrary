@@ -1,4 +1,4 @@
-package com.example.pidsrequestlibrary
+package com.example.corenetworkapipid
 
 import retrofit2.converter.moshi.MoshiConverterFactory
 
